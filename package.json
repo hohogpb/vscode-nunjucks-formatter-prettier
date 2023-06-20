@@ -10,7 +10,7 @@
     "Formatters"
   ],
   "activationEvents": [
-    
+    "onStartupFinished"
   ],
   "main": "./extension.js",
   "contributes": {
