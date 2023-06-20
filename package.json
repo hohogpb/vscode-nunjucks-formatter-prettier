@@ -2,7 +2,7 @@
   "name": "nunjucks-prettier",
   "displayName": "Nunjucks-Prettier",
   "description": "nunjucks prettier formatter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "guapibai",
   "repository": {
     "type": "git",
