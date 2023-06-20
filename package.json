@@ -3,6 +3,10 @@
   "displayName": "Nunjucks-Prettier",
   "description": "nunjucks prettier formatter",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hohogpb/vscode-nunjucks-formatter-prettier.git"
+  },
   "engines": {
     "vscode": "^1.77.0"
   },
